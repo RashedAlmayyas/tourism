@@ -1,0 +1,25 @@
+{
+    "tourism": [
+    {
+      "name": "Petra",
+      "images": {
+        "portrait": "./assets/tourism/rum.png",
+        "landscape": "./assets/tourism/rum.png"
+      },
+      "description": "Petra is a famous archaeological site in Jordan's southwestern desert. Dating to around 300 B.C., it was the capital of the Nabatean Kingdom. Accessed via a narrow canyon called Al Siq, it contains tombs and temples carved into pink sandstone cliffs, earning its nickname, the Rose City. Perhaps its most famous structure is 45m-high Al Khazneh, a temple with an ornate, Greek-style facade, and known as The Treasury."  },
+    {
+      "name": "Aqaba",
+      "images": {
+        "portrait": "./assets/tourism/rum.png",
+        "landscape": "./assets/tourism/rum.png"
+      },
+      "description": "Aqaba is a Jordanian port city on the Red Sea's Gulf of Aqaba. Inhabited since 4000 B.C., it's home to the Islamic-era Aqaba Fort. Its beach resorts are popular for windsurfing and other water sports, and the area is a top destination for scuba divers, with notable dive sites including the Yamanieh coral reef in the Aqaba Marine Park, south of the city" },
+    {
+      "name": "Wadi Rum",
+      "images": {
+        "portrait": "./assets/tourism/rum.png",
+        "landscape": "./assets/tourism/rum.png"
+      },
+      "description": "Wadi Rum is a protected area covering 720 square kilometers of dramatic desert wilderness in the south of Jordan. Huge mountains of sandstone and granite emerge, sheer-sided, from wide sandy valleys to reach heights of 1700 meters and more"  }
+  ]
+}
